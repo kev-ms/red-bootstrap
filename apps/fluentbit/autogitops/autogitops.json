@@ -1,6 +1,6 @@
 {
     "name": "fluent-bit",
-    "namespace": "monitoring",
+    "namespace": "fluent-bit",
     "imageName": "grafana/fluent-bit-plugin-loki",
     "imageTag": "latest",
     "targets": ["corp-monitoring"]
