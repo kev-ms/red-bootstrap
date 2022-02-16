@@ -1,0 +1,6 @@
+{
+    "apps": [ "prometheus", "fluentbit" ],
+    "name": "apps",
+    "namespace": "default",
+    "targets": [ ]
+  }
